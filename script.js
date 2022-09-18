@@ -1,6 +1,6 @@
-var player1 = prompt("Player One: Enter Your Name , You will be Blue");
+var player1 = prompt("Player One: Enter Your Name , You will be Cyan");
 console.log("Player One is :- "+player1)
-var player1Color = 'rgb(86, 151, 255)';
+var player1Color = 'rgb(96, 251, 255)';
 var player2 = prompt("Player Two: Enter Your Name , You will be Red");
 console.log("Player Two is :- "+player2)
 var player2Color = 'rgb(237, 45, 73)';
